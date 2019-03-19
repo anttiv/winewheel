@@ -1,0 +1,712 @@
+{
+    "name": "Viini",
+    "color": "white",
+    "children": [
+      {
+            "name": "Väri",
+            "color": "#eeeeee",
+            "children": [
+              {
+                "name": "Keltainen",
+                "color": "ffff00",
+                "size": 1
+              },
+              {
+                "name": "Kupari",
+                "color": "#ff9900",
+                "size": 1
+              },
+              {
+                "name": "Lohenpunainen",
+                "color": "#ff5050",
+                "size": 1
+              },
+              {
+                "name": "Vaaleanpunainen",
+                "color": "#ff6699",
+                "size": 1
+              },
+              {
+                "name": "Rubiininpunainen",
+                "color": "#ff0000",
+                "size": 1
+              },
+              {
+                "name": "Sinipunainen",
+                "color": "#660066",
+                "size": 1
+              },
+              {
+                "name": "Tummanpunainen",
+                "color": "#990033",
+                "size": 1
+              },
+              {
+                "name": "Kellanruskea",
+                "color": "#cc6600",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "Aromi",
+            "children": [
+              {
+                "name": "Hedelmäiset",
+                "children": [
+                  {
+                    "name": "Sitrukset",
+                    "color": "#ff9000",
+                    "child-gradient-end": "#ffd400",
+                    "children": [
+                      {
+                        "name": "Lime",
+                        "size": 1
+                      },
+                      {
+                        "name": "Appelsiini",
+                        "size": 1
+                      },
+                      {
+                        "name": "Sitruuna",
+                        "size": 1
+                      },
+                      {
+                        "name": "Greippi",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Marjat",
+                    "color": "#820000",
+                    "child-gradient-end": "#d64242",
+                    "children": [
+                      {
+                        "name": "Musta viinimarja",
+                        "size": 1
+                      },
+                      {
+                        "name": "Punainen viinimarja",
+                        "size": 1
+                      },
+                      {
+                        "name": "Karpalo",
+                        "size": 1
+                      },
+                      {
+                        "name": "Karhunvatukka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Mustikka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Vadelma",
+                        "size": 1
+                      },
+                      {
+                        "name": "Mansikka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Karpalo",
+                        "size": 1
+                      },
+                      {
+                        "name": "Viinirypäle",
+                        "size": 1
+                      },
+                      {
+                        "name": "Puolukka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Mustaherukka",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Hedelmät",
+                    "color": "#58b501",
+                    "child-gradient-end": "#9400ff",
+                    "children": [
+                      {
+                        "name": "Luumu",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kirsikka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Aprikoosi",
+                        "size": 1
+                      },
+                      {
+                        "name": "Persikka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Nektariini",
+                        "size": 1
+                      },
+                      {
+                        "name": "Omena",
+                        "size": 1
+                      },
+                      {
+                        "name": "Päärynä",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Trooppiset hedelmät",
+                    "color": "#ff9000",
+                    "child-gradient-end": "#ffd400",
+                    "children": [
+                      {
+                        "name": "Ananas",
+                        "size": 1
+                      },
+                      {
+                        "name": "Mango",
+                        "size": 1
+                      },
+                      {
+                        "name": "Papaija",
+                        "size": 1
+                      },
+                      {
+                        "name": "Banaani",
+                        "size": 1
+                      },
+                      {
+                        "name": "Litsi",
+                        "size": 1
+                      },
+                      {
+                        "name": "Passion",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kookos",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Melonit",
+                    "color": "#ff4c4c",
+                    "child-gradient-end": "#ff8b1e",
+                    "children": [
+                      {
+                        "name": "Vesimeloni",
+                        "size": 1
+                      },
+                      {
+                        "name": "Hunajameloni",
+                        "size": 1
+                      },
+                      {
+                        "name": "Cantaloupe",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Kuivatut hedelmät",
+                    "color": "#820000",
+                    "child-gradient-end": "#d64242",
+                    "children": [
+                      {
+                        "name": "Rusina",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kuivattu luumu",
+                        "size": 1
+                      },
+                      {
+                        "name": "Viikuna",
+                        "size": 1
+                      },
+                      {
+                        "name": "Taateli",
+                        "size": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Kukkaiset",
+                "color": "#ffe900",
+                "child-gradient-end": "#deaefc",
+                "children": [
+                  {
+                    "name": "Orvokki",
+                    "size": 1
+                  },
+                  {
+                    "name": "Jasmiini",
+                    "size": 1
+                  },
+                  {
+                    "name": "Ruusu",
+                    "size": 1
+                  },
+                  {
+                    "name": "Appelsiinin kukka",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Mausteiset",
+                "children": [
+                  {
+                    "name": "Tuoreet yrtit",
+                    "color": "#00561e",
+                    "child-gradient-end": "#22f46b",
+                    "children": [
+                      {
+                        "name": "Leikattu ruoho",
+                        "size": 1
+                      },
+                      {
+                        "name": "Timjami",
+                        "size": 1
+                      },
+                      {
+                        "name": "Tilli",
+                        "size": 1
+                      },
+                      {
+                        "name": "Eukalyptus",
+                        "size": 1
+                      },
+                      {
+                        "name": "Minttu",
+                        "size": 1
+                      },
+                      {
+                        "name": "Basilika",
+                        "size": 1
+                      },
+                      {
+                        "name": "Persilja",
+                        "size": 1
+                      },
+                      {
+                        "name": "Salvia",
+                        "size": 1
+                      },
+                      {
+                        "name": "Rosmariini",
+                        "size": 1
+                      },
+                      {
+                        "name": "Oregano",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Kuivatut yrtit",
+                    "color": "#00561e",
+                    "child-gradient-end": "#11a66b",
+                    "children": [
+                      {
+                        "name": "Tee",
+                        "size": 1
+                      },
+                      {
+                        "name": "Tupakka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kuivattu heinä",
+                        "size": 1
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Mausteet",
+                    "color": "#820000",
+                    "child-gradient-end": "#d64242",
+                    "children": [
+                      {
+                        "name": "Anis",
+                        "size": 1
+                      },
+                      {
+                        "name": "Mustapippuri",
+                        "size": 1
+                      },
+                      {
+                        "name": "Neilikka",
+                        "size": 1
+                      },
+                      {
+                        "name": "Inkivääri",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kaneli",
+                        "size": 1
+                      },
+                      {
+                        "name": "Lakritsa",
+                        "size": 1
+                      },
+                      {
+                        "name": "Valkopippuri",
+                        "size": 1
+                      },
+                      {
+                        "name": "Viherpippuri",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kumina",
+                        "size": 1
+                      },
+                      {
+                        "name": "Kola",
+                        "size": 1
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Kasvimaiset",
+                "color": "#00561e",
+                "child-gradient-end": "#22f46b",
+                "children": [
+                  {
+                    "name": "Paprika",
+                    "size": 1
+                  },
+                  {
+                    "name": "Vihreä papu",
+                    "size": 1
+                  },
+                  {
+                    "name": "Parsa",
+                    "size": 1
+                  },
+                  {
+                    "name": "Oliivi",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Puiset",
+                "color": "#56390f",
+                "child-gradient-end": "#512f01",
+                "children": [
+                  {
+                    "name": "Tammi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Seetri",
+                    "size": 1
+                  },
+                  {
+                    "name": "Kuusi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Korkki",
+                    "size": 1
+                  },
+                  {
+                    "name": "Pihka",
+                    "size": 1
+                  },
+                  {
+                    "name": "Havu",
+                    "size": 1
+                  },
+                  {
+                    "name": "Lyijykynä",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Eläimelliset",
+                "color": "#820000",
+                "child-gradient-end": "#d64242",
+                "children": [
+                  {
+                    "name": "Nahka",
+                    "size": 1
+                  },
+                  {
+                    "name": "Lihaisa",
+                    "size": 1
+                  },
+                  {
+                    "name": "Riista",
+                    "size": 1
+                  },
+                  {
+                    "name": "Pekoni",
+                    "size": 1
+                  },
+                  {
+                    "name": "Märkä villa",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Maaperä- ja mineraaliset",
+                "color": "#3a2200",
+                "child-gradient-end": "#010d35",
+                "children": [
+                  {
+                    "name": "Multa",
+                    "size": 1
+                  },
+                  {
+                    "name": "Sienet",
+                    "size": 1
+                  },
+                  {
+                    "name": "Tryffeli",
+                    "size": 1
+                  },
+                  {
+                    "name": "Humus",
+                    "size": 1
+                  },
+                  {
+                    "name": "Lanta",
+                    "size": 1
+                  },
+                  {
+                    "name": "Kivi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Petroli",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Karamellimaiset",
+                "color": "#d66700",
+                "child-gradient-end": "#512f01",
+                "children": [
+                  {
+                    "name": "Toffee",
+                    "size": 1
+                  },
+                  {
+                    "name": "Karamelli",
+                    "size": 1
+                  },
+                  {
+                    "name": "Suklaa",
+                    "size": 1
+                  },
+                  {
+                    "name": "Melassi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Vaahterasiirappi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Hunaja",
+                    "size": 1
+                  },
+                  {
+                    "name": "Vanilja",
+                    "size": 1
+                  },
+                  {
+                    "name": "Savu",
+                    "size": 1
+                  },
+                  {
+                    "name": "Paahtoleipä",
+                    "size": 1
+                  },
+                  {
+                    "name": "Keksi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Kaakao",
+                    "size": 1
+                  },
+                  {
+                    "name": "Kahvi",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Mikrobiologiset",
+                "color": "#e5d950",
+                "child-gradient-end": "#ffa528",
+                "children": [
+                  {
+                    "name": "Hiiva",
+                    "size": 1
+                  },
+                  {
+                    "name": "Voi",
+                    "size": 1
+                  },
+                  {
+                    "name": "Tuore juusto",
+                    "size": 1
+                  },
+                  {
+                    "name": "Kypsytetty juusto",
+                    "size": 1
+                  },
+                  {
+                    "name": "Sinihomejuusto",
+                    "size": 1
+                  },
+                  {
+                    "name": "Leipäinen",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "name": "Kemikaaliaromit",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "Rakenne",
+            "color": "#660066",
+            "child-gradient-end": "ff00ff",
+            "children": [
+              {
+                "name": "Kova",
+                "size": 1
+              },
+              {
+                "name": "Kiinteä",
+                "size": 1
+              },
+              {
+                "name": "Notkea",
+                "size": 1
+              },
+              {
+                "name": "Pehmeä",
+                "size": 1
+              },
+              {
+                "name": "Silkkinen",
+                "size": 1
+              },
+              {
+                "name": "Runsas",
+                "size": 1
+              },
+              {
+                "name": "Mehukas",
+                "size": 1
+              },
+              {
+                "name": "Paksu",
+                "size": 1
+              },
+              {
+                "name": "Öljyinen",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "Hapokkuus",
+            "color": "#00561e",
+            "child-gradient-end": "#22f46b",
+            "children": [
+              {
+                "name": "Kepeä",
+                "size": 1
+              },
+              {
+                "name": "Raikas",
+                "size": 1
+              },
+              {
+                "name": "Pirteä",
+                "size": 1
+              },
+              {
+                "name": "Kirpeä",
+                "size": 1
+              },
+              {
+                "name": "Terävä",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "Tanniinisuus",
+            "color": "#0061ff",
+            "child-gradient-end": "#72cff9",
+            "children": [
+              {
+                "name": "Kevyet",
+                "size": 1
+              },
+              {
+                "name": "Pehmeät",
+                "size": 1
+              },
+              {
+                "name": "Samettiset",
+                "size": 1
+              },
+              {
+                "name": "Tasapainoiset",
+                "size": 1
+              },
+              {
+                "name": "Kuivaavat",
+                "size": 1
+              },
+              {
+                "name": "Kiristävät",
+                "size": 1
+              },
+              {
+                "name": "Hyökkäävät",
+                "size": 1
+              },
+              {
+                "name": "Kovat",
+                "size": 1
+              },
+              {
+                "name": "Raskaat",
+                "size": 1
+              }
+            ]
+          }
+    ]
+  }

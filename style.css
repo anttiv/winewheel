@@ -1,0 +1,47 @@
+.button {
+    background-color: rgb(126, 0, 0); /* Green */
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.textbox-header input {
+    float: left
+}
+
+.sunburst-viz text
+{
+    fill: black;
+}
+
+.sunburst-viz text .text-contour
+{
+    stroke: none;
+}
+#textbox-header label {
+    color: rgb(126, 0, 0);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    margin-bottom: 2px;
+}
+h1 {
+    color: rgb(126, 0, 0);
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: rgb(126, 0, 0);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+}

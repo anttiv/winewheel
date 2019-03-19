@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fi">
+    <head>
+        <meta charset="utf-8">
+        <meta name="author" content="Antti Virta">
+        <meta name="description" content="Visualization of adjectives helping to describe properties of wines, grouped in categories. Currently only in Finnish">
+        <title>Viinipyörä</title>
+        <link rel="stylesheet"  type="text/css" href="style.css"></style>
+    </head>
+    <body>
+        <div id="chart"></div>
+        <div id="textbox-header">
+            <label for="wine-name">Viinin nimi:</label>
+            <input id="wine-name" type="text" name="Viinin nimi" value="Viini">
+            <label for="wine-vintage">Vuosikerta:</label>
+            <input id="wine-vintage" type="number" min="1900" max="2099" step="1" value="2018">
+            <h3>Kuvaus:</h3>
+        </div>
+        <div id="textbox"></div>
+        <button class="button" onclick="clearDescription()">Tyhjennä kuvaus</button>
+        <button class="button" onclick="copyDescriptionToClipboard()">Kopio leikepöydälle</button>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://unpkg.com/sunburst-chart"></script>
+        <script type="text/javascript" src="wwheel.js"></script>
+    </body>
+
+</html>
